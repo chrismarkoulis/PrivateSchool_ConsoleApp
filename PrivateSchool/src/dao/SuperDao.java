@@ -20,8 +20,8 @@ import java.util.logging.Logger;
 public class SuperDao {
     
     private final String URL = "jdbc:mysql://localhost:3306/privateschool?serverTimezone=UTC";     
-    private final String USER = "root";
-    private final String PASS = "1234";
+    private final String USER = "username";
+    private final String PASS = "password";
     private Connection conn;          
     
     
